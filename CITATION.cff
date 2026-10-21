@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use Energy-Storage-PINN, please cite it as below."
+authors:
+  - family-names: "Chatterjee"
+    given-names: "Dhrub"
+title: "Energy Storage PINN: Physics-Informed Neural Networks for Battery Thermal Runaway and State-of-Charge Dynamics"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/dhrubchatterjee16-lang/energy-storage-pinn"
+keywords:
+  - battery-storage
+  - pinn
+  - sciml
+  - thermal-management
